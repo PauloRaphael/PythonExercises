@@ -32,6 +32,8 @@ ENV/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+.myenv/
+.myenvsource/
 
 # Coverage reports
 .coverage
