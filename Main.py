@@ -1,4 +1,7 @@
 import Functions as fc
 
-n = int(input("Input a number: "))
-fc.factorial(n)
+print("First List: ")
+first_list = fc.createList()
+print("Second List: ")
+seccond_list = fc.createList()
+print(fc.sumLists(first_list, seccond_list))
